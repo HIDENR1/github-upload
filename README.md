@@ -1,1 +1,1 @@
-# github-upload.gitignore
+# github-upload
